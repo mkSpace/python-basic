@@ -1,0 +1,2466 @@
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 4
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 1
+There is no product.
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 5
+Successfully Loaded data
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 4
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 1
+<#4101 New Engineering Building>
+*************************************************************************************
+* Desk #0 : (#0)Jaemin's Mouse
+*************************************************************************************
+
+<#3101 Old Engineering Building>
+*************************************************************************************
+* Desk #1 : (#1)Yunjae's Mouse
+*************************************************************************************
+
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 1
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : New Engineering Building
+Office Number : 4102
+Office Manager : Jaemin
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : New Engineering Building
+Office Number : 4103
+Office Manager : Jaemin
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : Old Engineering Building
+Office Number : 3102
+Office Manager : Yunjae
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+4             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 4
+Deleted.
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+*************************************************************************************
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : Old Engineering Building
+Office Number : 3103
+Office Manager : Yunjae
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3103             Yunjae       
+*************************************************************************************
+Office Code : 5
+Building Name : Old Engineering Building
+Office Number : 3102
+Office Manager : Yunjae
+Updated
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 2
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+Area Name : Shelter
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+Area Name : Drawer
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+Area Name : Shelf
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+Area Name : Drawer
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 2
+Area Name : Desk
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 2
+Area Name : Drawer
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 3
+Area Name : Drawer
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 3
+Area Name : Shelf
+Area Manager : Jaemin
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 3
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelter        Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+Area Code : 2
+Area Name : Shelf
+Area Manager : Jaemin
+Updated
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 5
+Area Name : Desk
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+10           5            Desk           Yunjae         
+*************************************************************************************
+Area Code : 10
+Deleted.
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 6
+Successfully dumped data
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 3
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 1
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 0
+Product Type : Pen
+Product Name (max 15 letters): Jaemin's Pen
+Price : 30000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 0
+Product Type : Monitor
+Product Name (max 15 letters): JM's Monitor
+Price : 300000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 2
+Product Type : Pen
+Product Name (max 15 letters): Jaemin's Pen
+Price : 30000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 2
+Product Type : Book
+Product Name (max 15 letters): Jaemin's Book
+Price : 30000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 2
+Product Type : Watch
+Product Name (max 15 letters): Jaemin's Watch
+Price : 50000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 3
+Product Type : Key
+Product Name (max 15 letters): Jaemin's Key
+Price : 20000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 3
+Product Type : Pen
+Product Name (max 15 letters): Jaemin's Pen
+Price : 3000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 3
+Product Type : Pencil
+Product Name (max 15 letters): Jaemin's Pencil
+Price : 2000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 1
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 1
+Product Type : Pen
+Product Name (max 15 letters): Yunjae's Pen
+Price : 3000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 1
+Product Type : TV
+Product Name (max 15 letters): Yunjae's TV
+Price : 300000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 4
+Product Type : Book
+Product Name (max 15 letters): Yunjae's Book
+Price : 30000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 4
+Product Type : Note
+Product Name (max 15 letters): Yunjae's Note
+Price : 3000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 4
+Product Type : Eraser
+Product Name (max 15 letters): Yunjae's Eraser
+Price : 300
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 5
+Product Type : Phone
+Product Name (max 15 letters): Yunjae's Phone
+Price : 800000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 5
+Product Type : A5
+Product Name (max 15 letters): Yunjae's A4
+Price : 300
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+1            1            Desk           Yunjae         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+Area Code : 5
+Product Type : Bag
+Product Name (max 15 letters): Yunjae's Bag
+Price : 100000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000                                           
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A5           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+*************************************************************************************
+Product Code : 16
+Product Type : A4
+Product Name : Yunjae's A4
+Price : 300
+Updated
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000                                           
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 2
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 6
+Product Type : Mouse
+Product Name (max 15 letters): Jaemin's Mouse
+Price : 400000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 2
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 7
+Product Type : Phone
+Product Name (max 15 letters): Jaemin's Phone
+Price : 2000000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 3
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+Area Code : 8
+Product Type : Monitor
+Product Name (max 15 letters): JM's Monitor
+Price : 300000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000                                           
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+19           2            7            Phone        Jaemin's Phone 2000000                                          
+20           3            8            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+Product Code : 19
+Deleted.
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000                                           
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           3            8            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000                                           
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           3            8            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+Product Code : 11
+Lender : Jaemin
+Rental Date (YYYYMMDD): 20220713
+Successfully Rentalled!!
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           3            8            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 6
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           3            8            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+Product Code : 20
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 2
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 7
+Successfully moved
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           2            7            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 7
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 6
+Successfully dumped data
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 1
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 0
+Cannot delete this office because it has more than one area.
+Please delete its areas and try again.
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+5             Old Engineering Building                3102             Yunjae       
+*************************************************************************************
+Office Code : 5
+Deleted.
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+*************************************************************************************
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 2
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+Area Code : 0
+Cannot delete this area because it has more than one product.
+Please delete its product and try again.
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+9            3            Shelf          Jaemin         
+*************************************************************************************
+Area Code : 9
+Deleted.
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 3
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+18           2            6            Mouse        Jaemin's Mouse 400000                                           
+20           2            7            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+Product Code : 18
+Deleted.
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+20           2            7            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+20           2            7            Monitor      JM's Monitor   300000                                           
+*************************************************************************************
+Product Code : 20
+Deleted.
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 7
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 2
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+8            3            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 8
+Deleted.
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+7            2            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 7
+Deleted.
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 1
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+*************************************************************************************
+Office Code : 2
+Cannot delete this office because it has more than one area.
+Please delete its areas and try again.
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 2
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 4
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+6            2            Desk           Jaemin         
+*************************************************************************************
+Area Code : 6
+Deleted.
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 1
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 4
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+2             New Engineering Building                4102             Jaemin       
+3             New Engineering Building                4103             Jaemin       
+*************************************************************************************
+Office Code : 2
+Deleted.
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+*************************************************************************************
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 4
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 1
+<#4101 New Engineering Building>
+*************************************************************************************
+* Desk #0 : (#0)Jaemin's Mouse,(#2)Jaemin's Pen,(#3)JM's Monitor
+*************************************************************************************
+
+*************************************************************************************
+* Shelf #2 : (#4)Jaemin's Pen,(#5)Jaemin's Book,(#6)Jaemin's Watch
+*************************************************************************************
+
+*************************************************************************************
+* Drawer #3 : (#7)Jaemin's Key,(#8)Jaemin's Pen,(#9)Jaemin's Pencil
+*************************************************************************************
+
+<#3101 Old Engineering Building>
+*************************************************************************************
+* Desk #1 : (#1)Yunjae's Mouse,(#10)Yunjae's Pen,(#11)Yunjae's TV
+*************************************************************************************
+
+*************************************************************************************
+* Shelf #4 : (#12)Yunjae's Book,(#13)Yunjae's Note,(#14)Yunjae's Eraser
+*************************************************************************************
+
+*************************************************************************************
+* Drawer #5 : (#15)Yunjae's Phone,(#16)Yunjae's A4,(#17)Yunjae's Bag
+*************************************************************************************
+
+<#4103 New Engineering Building>
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 2
+Product code > 3
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+3            0            0            Monitor      JM's Monitor   300000                                           
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 2
+Product code > 11
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 6
+Successfully dumped data
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 4
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 1
+<#4101 New Engineering Building>
+*************************************************************************************
+* Desk #0 : (#0)Jaemin's Mouse,(#2)Jaemin's Pen,(#3)JM's Monitor
+*************************************************************************************
+
+*************************************************************************************
+* Shelf #2 : (#4)Jaemin's Pen,(#5)Jaemin's Book,(#6)Jaemin's Watch
+*************************************************************************************
+
+*************************************************************************************
+* Drawer #3 : (#7)Jaemin's Key,(#8)Jaemin's Pen,(#9)Jaemin's Pencil
+*************************************************************************************
+
+<#3101 Old Engineering Building>
+*************************************************************************************
+* Desk #1 : (#1)Yunjae's Mouse,(#10)Yunjae's Pen,(#11)Yunjae's TV
+*************************************************************************************
+
+*************************************************************************************
+* Shelf #4 : (#12)Yunjae's Book,(#13)Yunjae's Note,(#14)Yunjae's Eraser
+*************************************************************************************
+
+*************************************************************************************
+* Drawer #5 : (#15)Yunjae's Phone,(#16)Yunjae's A4,(#17)Yunjae's Bag
+*************************************************************************************
+
+<#4103 New Engineering Building>
+******************************** Search Product *************************************
+1. Retrieve All Products
+2. Retrieve a Product
+3. Go Back
+*************************************************************************************
+> 3
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 1
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : New Engineering Building
+Office Number : 4104
+Office Manager : Jaemin
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : Old Engineering Building
+Office Number : 3103
+Office Manager : Yunjae
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 2
+********************************  Input Office ***************************************
+Building Name : Old Engineering Building
+Office Number : 3104
+Office Manager : Yunjae
+******************************** Manage Offices *************************************
+1. Retrieve Offices
+2. Input Offices
+3. Update Offices
+4. Delete Offices
+5. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 2
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 7
+Area Name : Desk
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 7
+Area Name : Shelf
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 8
+Area Name : Shelf
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 1
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+1            1            Desk           Yunjae         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+4            1            Shelf          Yunjae         
+5            1            Drawer         Yunjae         
+11           7            Desk           Yunjae         
+12           7            Shelf          Yunjae         
+13           8            Shelf          Yunjae         
+*************************************************************************************
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 2
+*********************************** Input Area **************************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 8
+Area Name : Desk
+Area Manager : Yunjae
+******************************** Manage Areas ***************************************
+1. Retrieve Areas 
+2. Input Areas 
+3. Update Areas 
+4. Delete Areas 
+5. Go Back 
+*************************************************************************************
+> 5
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 3
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 1
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 7
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+11           7            Desk           Yunjae         
+12           7            Shelf          Yunjae         
+*************************************************************************************
+Area Code : 11
+Product Type : Pen
+Product Name (max 15 letters): Yunjae's Pen
+Price : 3000
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 2
+*********************************** Input Product ***********************************
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 8
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+13           8            Shelf          Yunjae         
+14           8            Desk           Yunjae         
+*************************************************************************************
+Area Code : 14
+Product Type : Pencil
+Product Name (max 15 letters): Yunjae's Pencil
+Price : 500
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 1
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+21           7            11           Pen          Yunjae's Pen   3000                                             
+22           8            14           Pencil       Yunjae's Pencil500                                              
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 5
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+21           7            11           Pen          Yunjae's Pen   3000                                             
+22           8            14           Pencil       Yunjae's Pencil500                                              
+*************************************************************************************
+Product Code : 22
+Lender : Jaemin
+Rental Date (YYYYMMDD): 20220713
+Successfully Rentalled!!
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+21           7            11           Pen          Yunjae's Pen   3000                                             
+22           8            14           Pencil       Yunjae's Pencil500       Jaemin       20220713                  
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 6
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+21           7            11           Pen          Yunjae's Pen   3000                                             
+22           8            14           Pencil       Yunjae's Pencil500       Jaemin       20220713                  
+*************************************************************************************
+Product Code : 22
+*************************************************************************************
+OfficeCode    BuildingName                            OfficeNumber     OfficeManager
+0             New Engineering Building                4101             Jaemin       
+1             Old Engineering Building                3101             Yunjae       
+3             New Engineering Building                4103             Jaemin       
+6             New Engineering Building                4104             Jaemin       
+7             Old Engineering Building                3103             Yunjae       
+8             Old Engineering Building                3104             Yunjae       
+*************************************************************************************
+Office Code : 0
+*************************************************************************************
+AreaCode     OfficeCode   AreaName       AreaManager    
+0            0            Desk           Jaemin         
+2            0            Shelf          Jaemin         
+3            0            Drawer         Jaemin         
+*************************************************************************************
+Area Code : 0
+Successfully moved
+*************************************************************************************
+ProductCode  OfficeCode   AreaCode     ProductType  ProductName    Price     Lender       RentalDate   ReturnDate   
+0            0            0            Mouse        Jaemin's Mouse 30000                                            
+1            1            1            Mouse        Yunjae's Mouse 30000                                            
+2            0            0            Pen          Jaemin's Pen   30000                                            
+3            0            0            Monitor      JM's Monitor   300000                                           
+4            0            2            Pen          Jaemin's Pen   30000                                            
+5            0            2            Book         Jaemin's Book  30000                                            
+6            0            2            Watch        Jaemin's Watch 50000                                            
+7            0            3            Key          Jaemin's Key   20000                                            
+8            0            3            Pen          Jaemin's Pen   3000                                             
+9            0            3            Pencil       Jaemin's Pencil2000                                             
+10           1            1            Pen          Yunjae's Pen   3000                                             
+11           1            1            TV           Yunjae's TV    300000    Jaemin       20220713                  
+12           1            4            Book         Yunjae's Book  30000                                            
+13           1            4            Note         Yunjae's Note  3000                                             
+14           1            4            Eraser       Yunjae's Eraser300                                              
+15           1            5            Phone        Yunjae's Phone 800000                                           
+16           1            5            A4           Yunjae's A4    300                                              
+17           1            5            Bag          Yunjae's Bag   100000                                           
+21           7            11           Pen          Yunjae's Pen   3000                                             
+22           0            0            Pencil       Yunjae's Pencil500       Jaemin       20220713                  
+*************************************************************************************
+******************************** Manage Products ************************************
+1. Retrieve Products
+2. Input Product
+3. Update Product
+4. Delete Product
+5. Rent Product
+6. Move Product
+7. Go Back
+*************************************************************************************
+> 7
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 6
+Successfully dumped data
+*************************************************************************************
+1. Manage Offices 
+2. Manage Areas 
+3. Manage Products
+4. Search Products
+5. Load Data
+6. Save Data
+7. Exit
+*************************************************************************************
+> 7
+Bye!!
